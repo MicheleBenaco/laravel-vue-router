@@ -1,7 +1,7 @@
 <template>
 
   <div>
-  <h1>Andrea Gallini</h1>
+  <h1>Michele Benaco</h1>
   <p>Tipi di linguaggi di programmazione conosciuti : html , css , laravel ecc.</p>
   <p>progetti svolti</p>
   <p>Studi conseguiti presso boolean</p>

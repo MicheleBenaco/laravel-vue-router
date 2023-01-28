@@ -72,7 +72,7 @@ export default {
 
 <style lang="scss" scoped>
 .head_show_left{
-flex-basis: 33.3%;
+flex-basis: 35.3%;
 justify-self: flex-start;
 margin-left: 5rem;
 }
